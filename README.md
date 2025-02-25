@@ -38,3 +38,7 @@ Progress Tracking: Users can track their learning journey and improvement.
 
 # LECTURE VIDEOS
 ![image](https://github.com/user-attachments/assets/b6ec6165-c3c0-4113-a8dd-b4f17fdc5473)
+
+## Clone the Repository
+To clone this project, run the following command in your terminal:
+git clone https://github.com/your-username/trainify.git
