@@ -5,15 +5,15 @@ Trainfy is a web-based platform designed to help undergraduate students improve 
 
 ### Features
 
-~ Skill-Based Assessment – Users take a test to determine their coding level (Beginner, Intermediate, Expert).
-~ Personalized Learning Paths – Custom recommendations based on skill level.
+~ Skill-Based Assessment – Users take a test to determine their coding level (Beginner, Intermediate, Expert).  
+~ Personalized Learning Paths – Custom recommendations based on skill level.  
 ~ Coding Challenges – A collection of problems tailored to different levels.
-~ Mock Interviews – Simulated technical interviews to prepare users for real-world hiring.
-~ Lecture Videos – A dedicated section for learning through video lectures.
-~ Full-Stack Implementation – Built with HTML, CSS, JavaScript (Frontend) & Java (Spring Boot Backend).
-~ Progress Tracking – Users can track their performance and improve over time.
-~ Secure Authentication – Login system with password encryption.
-~ Responsive & User-Friendly UI – Works on both desktop and mobile
+~ Mock Interviews – Simulated technical interviews to prepare users for real-world hiring.  
+~ Lecture Videos – A dedicated section for learning through video lectures.  
+~ Full-Stack Implementation – Built with HTML, CSS, JavaScript (Frontend) & Java (Spring Boot Backend).   
+~ Progress Tracking – Users can track their performance and improve over time.  
+~ Secure Authentication – Login system with password encryption.   
+~ Responsive & User-Friendly UI – Works on both desktop and mobile  
 
 
 ### Requirements
