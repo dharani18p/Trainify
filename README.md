@@ -1,9 +1,9 @@
 # TrainifyTrainfy - Train & Identify Yourself
-Overview
+### Overview
 
 Trainfy is a web-based platform designed to help undergraduate students improve their coding skills, prepare for technical interviews, and practice mock interviews. It offers a structured approach to learning by assessing users' skill levels and providing personalized recommendations.
 
-Features
+### Features
 
 User Authentication: Secure login and registration system.
 
