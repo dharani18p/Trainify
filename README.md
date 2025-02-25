@@ -18,6 +18,12 @@ Coding Challenges: A variety of problems to practice data structures and algorit
 Progress Tracking: Users can track their learning journey and improvement.
 
 
+### Requirements
+- Java 17 or higher  
+- Maven 3+  
+- MySQL/PostgreSQL  
+
+
 ### Output
 
 # HOME
@@ -28,3 +34,7 @@ Progress Tracking: Users can track their learning journey and improvement.
 
 # COMPANY OFFERS
 ![Screenshot 2025-02-25 221618](https://github.com/user-attachments/assets/ff788e7c-c6ff-44bf-b9b0-7dd198e65653)
+
+
+# LECTURE VIDEOS
+![image](https://github.com/user-attachments/assets/b6ec6165-c3c0-4113-a8dd-b4f17fdc5473)
